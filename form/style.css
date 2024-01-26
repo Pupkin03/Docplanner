@@ -1,0 +1,280 @@
+header{
+    display: flex;
+    flex-direction: row;
+    gap: 30rem;
+    top: 1rem;
+    padding-left: 15rem;
+}
+
+.navbar{
+    display: flex;
+    gap: 2rem;
+    height: 5vh;
+    font-size: large;
+}
+
+.logo{
+    display: flex;
+    margin-top: 7rem;
+    top: 11rem;
+    left: 45rem;
+    flex-direction: column;
+}
+
+.wordlogo{
+    display: flex;
+    justify-content: center;
+    top:14rem;
+    font-size: xx-large;
+    color: #00b39b;
+    font-stretch: expanded;
+}
+
+.wordlogo2{
+    display: flex;
+    gap: 5rem;
+    left: 16rem;
+    font-size: large;
+    top: 16rem;
+}
+
+.bridge{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5rem;
+    top: 20rem;
+    gap: 2rem;
+    padding: 0 13rem;
+}
+
+.block1{
+    display: inline-block;
+    background-color: aquamarine;
+    padding: 10px;
+    border-radius: 0.5rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    padding-top: 40px;
+}
+
+.block2{
+    display: inline-block;
+    background-color: rgb(121, 121, 200);
+    padding: 10px;
+    padding-right: 3rem;
+    border-radius: 0.5rem;
+    padding-left: 3rem;
+    padding-top: 40px;
+}
+
+
+.block3{
+    display: inline-block;
+    background-color: black;
+    padding: 10px;
+    padding-right: 3rem;
+    border-radius: 0.5rem;
+    color: white;
+    padding-left: 3rem;
+    padding-top: 40px;
+}
+
+.globe{
+    display: flex;
+justify-content: space-between;
+    padding: 0 13rem;
+    margin-top: 2rem;
+}
+
+.underblock{
+    font-size: 1.62em;
+    margin: 0.25em 0 0.35em;
+    padding-right: 1em;
+    color: #00b39b;
+    font-family: Work Sans, Arial, sans-serif;
+    font-weight: 100;
+    letter-spacing: -0.3px;
+    
+}
+
+.underblock2{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 2rem;
+    color: #00b39b;
+    font-size: medium;
+    
+}
+
+
+.starp{
+    display: flex;
+}
+
+
+.bigblock{
+    top: 75rem;
+    background-color: #d0faf4;
+    padding-inline-end: 80rem;
+    padding-left: 18rem;
+    padding-top: 5rem;
+    height: 543px;
+    display: flex;
+    gap: 5rem;
+}
+
+.semiblock{
+    display: flex;
+    flex-direction: column;
+}
+
+.logodesign{
+
+    right: 2rem;
+    top: 1.2em;
+}
+
+.whiteCards{
+    display: flex;
+    justify-content: center;
+    gap:5rem
+}
+
+.right{
+    display: flex;
+    flex-direction: column;
+    gap:15px;
+}
+
+
+.left{
+    display: flex;
+    flex-direction: column;
+    gap:15px;
+}
+
+
+.otherblock1image{
+    display: flex;
+    justify-content: center;
+    padding-top: 7%;
+}
+
+.otherblock1text{
+    display: flex;
+    justify-content: center;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 2rem;
+    line-height: 1rem;
+    color: #00b39b;
+    font-stretch: extra-condensed;
+}
+
+.otherblock1text2{
+    display: flex;
+    justify-content: center;
+    font-size: x-small;
+    padding-left: 3%;
+    padding-bottom: 9%;
+    font-weight: 100px;
+}
+
+.otherblock2{
+    background-color: white;
+    color: #00b39b;
+    width: 12rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+
+.otherblock2image{
+    display: flex;
+    justify-content: center;
+}    
+
+.otherblock3{
+    display: inline-block;
+    background-color: white;
+    bottom: 30.6rem;
+    left: 22.8rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: 2rem;
+}
+
+
+
+
+.otherblock4image{
+    display: flex;
+    justify-content: center; 
+}
+
+
+.hero{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+} 
+
+
+.maintext{
+display: flex;
+justify-content: center;
+margin-top: 5rem;
+font-weight: 300;
+}
+
+.lowtext{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+
+.boxoffice{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 1%;
+    margin: 10rem;
+    margin-top: 7rem;
+}
+
+button{
+    background-color: rgb(98, 98, 211);
+    color: white;
+    margin: 1rem;
+    padding: 0.5rem;
+}
+
+.openings{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+footer{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 12px;
+    font-family: Roboto, Arial, sans-serif;
+    color: #ababab;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+
+
+
+
+
+
+
+
+
